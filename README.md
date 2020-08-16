@@ -1,2 +1,2 @@
 # expense-manager-app
-Created with CodeSandbox
+A simple Expense Manager Application using React Context API
